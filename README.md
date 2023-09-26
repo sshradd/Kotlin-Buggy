@@ -4,11 +4,11 @@
 
 Submitted by: Shraddha Subash
 
-Time spent: 1 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Summary
 
-Buggy is an android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes! 
+Buggy is an Android app that was riddled with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes! 
 
 If I had to describe this project in three (3) emojis, they would be: 😟 👎 🔍
 
@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[https://imgur.com/a/1ITmvbT](https://imgur.com/a/1ITmvbT)' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/kG8Ohfh.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
